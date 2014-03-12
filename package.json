@@ -1,5 +1,5 @@
 {
-  "name": "foo with spaces",
+  "name": "foo-without-spaces",
   "version": "1.0.0",
   "description": "Expand snippets matching the current prefix with `tab`.",
   "repository": {
