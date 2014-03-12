@@ -1,0 +1,15 @@
+{
+  "name": "foo with spaces",
+  "version": "1.0.0",
+  "description": "Expand snippets matching the current prefix with `tab`.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thedaniel-test/foo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thedaniel-test/foo/issues"
+  },
+  "engines": {
+    "atom": "*"
+  }
+}
